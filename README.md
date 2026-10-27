@@ -1,3 +1,9 @@
+Anggota Kelompok:
+| NRP           | Nama        | 
+| ---            | ---        | 
+|   5025241066 | Naufal Daffa Alfa Zain |
+| 5025241100 | Liem, Alfred Haryanto |
+
 Compile:
 
 ```bash
